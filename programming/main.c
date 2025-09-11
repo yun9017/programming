@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    
+    printf("Hello, Sookmyung Electronics!\n");
     return 0;
 }
